@@ -6,6 +6,10 @@ public class HelloGit {
 		System.out.println("Hello Git");
 		System.out.println("Mestre Yoda");
 		System.out.println("Mestre Yoda");
+		System.out.println("Mestre Yoda");
+		System.out.println("Mestre Yoda");
+		System.out.println("Mestre Yoda");
+		System.out.println("Mestre Yoda");
 
 	}
 
